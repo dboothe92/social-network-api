@@ -21,3 +21,6 @@ MIT License
 ## <a name = "Contact"></a>Contact
 - [dboothe92](https://www.github.com/dboothe92)
 - [dbraunby@hotmail.com](mailto:dbraunby@hotmail.com)
+
+##View a video of the api in action here: 
+https://drive.google.com/file/d/1pdkJYd-8kwrWlp4XWlF1TU3jph5FiWqY/view
